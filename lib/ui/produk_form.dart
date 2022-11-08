@@ -12,7 +12,7 @@ class _ProdukFormState extends State<ProdukForm> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('form produk'),
+        title: const Text('form produk ini'),
       ),
       body: SingleChildScrollView(
         child: Column(
